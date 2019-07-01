@@ -7,4 +7,4 @@ def display_board(board=["","","","","","","","",""])
   puts " #{board[6]}  | #{board[7]}  | #{board[8]}  "
 end
 # out the current state.
-//display_board(["","","","","X","","","",""]); 
+# display_board(["","","","","X","","","",""]); 
